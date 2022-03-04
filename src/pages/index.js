@@ -138,9 +138,7 @@ const IndexPage = () => {
           🎉🎉🎉
         </span>
         Publishing new content for deploys.
-
-        Introducing padel changes
-
+        Trying manual deploys.
       </h1>
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
